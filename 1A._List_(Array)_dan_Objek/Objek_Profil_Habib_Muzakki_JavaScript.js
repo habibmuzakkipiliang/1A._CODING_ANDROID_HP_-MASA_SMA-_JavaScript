@@ -1,0 +1,41 @@
+ob = {
+    "nama" : "Habib Muzakki",
+    "akrab" :"Habib",
+    "kelas" : "12 Agama",
+    "usia" : "18 tahun",
+    "tinggi" : "172 cm",
+    "berat" : "60 kg",
+    "darah" : "B +",
+    "statum" : "Anak PP",
+    "sekolah" : "MAN 2 Kota Serang",
+    "etnis" : "Minangkabau",
+    "klan" : "Piliang",
+    "ig" : "habib_muzakki_piliang",
+    "tiktok" : "habib_muzakki_piliang22",
+}
+
+console.log ("Nama :", ob ["nama"])
+
+console.log ("Akrab :", ob ["akrab"])
+
+console.log ("Kelas :", ob ["kelas"])
+
+console.log ("Usia :", ob ["usia"])
+
+console.log ("Tinggi :", ob ["tinggi"])
+
+console.log ("Berat :", ob ["berat"])
+
+console.log ("Darah :", ob ["darah"])
+
+console.log ("Status :", ob ["statum"])
+
+console.log ("Sekolah :", ob ["sekolah"])
+
+console.log ("Etnis :", ob ["etnis"])
+
+console.log ("Klan :", ob ["klan"])
+
+console.log ("Instagram :", ob ["ig"])
+
+console.log ("Tiktok :", ob ["tiktok"])
